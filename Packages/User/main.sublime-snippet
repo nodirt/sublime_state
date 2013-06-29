@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+def main():
+    ${1}
+    print('All tests passed')
+
+
+if __name__ == '__main__':
+    main()
+]]></content>
+    <tabTrigger>main</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>
