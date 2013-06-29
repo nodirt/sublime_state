@@ -28,7 +28,6 @@
 	{ "keys": ["ctrl+shift+u"], "command": "soft_redo" },
 
 	{ "keys": ["ctrl+shift+v"], "command": "paste_and_indent" },
-	{ "keys": ["shift+delete"], "command": "cut" },
 	{ "keys": ["ctrl+insert"], "command": "copy" },
 	{ "keys": ["shift+insert"], "command": "paste" },
 	{ "keys": ["ctrl+x"], "command": "cut" },
@@ -540,7 +539,7 @@
 	{ "keys": ["ctrl+shift+f2"], "command": "clear_bookmarks" },
 	{ "keys": ["alt+f2"], "command": "select_all_bookmarks" },
 
-	{ "keys": ["ctrl+shift+k"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["shift+delete"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
 
 	{ "keys": ["alt+q"], "command": "wrap_lines" },
 

@@ -1,0 +1,6 @@
+*.sublime_state
+*.sublime-workspace
+*.pyc
+*.cache
+/Settings/
+/Backup/
