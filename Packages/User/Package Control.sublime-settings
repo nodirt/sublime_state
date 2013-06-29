@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"DictionaryAutoComplete",
+		"Git",
+		"Gitignore",
+		"JavaScript and jQuery API Completions",
+		"Package Control",
+		"Terminal",
+		"TypeScript",
+		"TypeScript Compiler"
+	]
+}
